@@ -14,4 +14,7 @@ for token in tokens:
  
 # Aquí, nuestra lista de tokens se llama "tokens"
 palabras_total=len(tokens)
+
+print(palabras_total)
+
 print(palabras_total)
